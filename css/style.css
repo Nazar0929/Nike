@@ -1,0 +1,206 @@
+:root {
+
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 8px;
+    padding-right: 8px;
+    width: 1296px;
+}
+
+body {
+    font-family: "";
+    color: var();
+}
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+img {
+    display: block;
+}
+h1, h2, h3, p, ul{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: black;
+    padding-top: 40px;
+    padding-bottom: 34px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.ul-header {
+    display: flex;
+    align-items: center;
+}
+
+.item-text {
+    color: #FFF;
+    font-family: "Futura Bk BT";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 100% */
+    text-transform: uppercase;
+}
+
+.list-item {
+    margin-right: 40px;
+}
+
+.list-itemm {
+    margin-right: 23px;
+}
+
+.list-itemmm {
+    margin-right: 23px;
+}
+
+.list-itemmmm {
+    margin-right: 32px;
+}
+
+.list-itemmmmmm {
+    margin-left: 230px;
+}
+
+.badabem {
+    display: flex;
+    margin-left: auto;
+    gap: 40px;
+}
+
+.k {
+    display: flex;
+}
+
+.section-hero {
+    padding-top: 84px;
+    padding-bottom: 80px;
+    height: 705px;
+    background: #000;
+    background-image: url(../img/back.png), url(../img/baaackgroundtext.png), url(../img/color.png);
+    background-repeat: no-repeat;
+    background-size: 1520px 705px,1002px 324px,137px 480px;
+    background-position: center,center,left;
+}
+
+.flex {
+    display: flex
+}
+
+.li-boot {
+    margin-left:50px;
+    margin-top: 84px;
+    width: 560px;
+    height: 308.108px;
+    flex-shrink: 0;
+}
+
+.li-bot {
+    width: 560px;
+    height: 36.221px;
+    flex-shrink: 0;
+    margin-left: 114px;
+    margin-top: 115px;
+}
+
+.li-bootss {
+    margin-left: 374px;
+}
+
+.list-textt {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 40px;
+    margin-top: 200px;
+    margin-left: 90px;
+}
+
+.textt-p {
+    width: px;
+    color: #FFF;
+    font-family: "Futura Hv BT";
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 48px; /* 100% */
+    letter-spacing: 7.68px;
+}
+
+.display {
+    display: flex;
+    align-items: center;
+}
+
+.p-li {
+    color: #FFF;
+    font-family: "Futura Hv BT";
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px; /* 100% */
+}
+
+.size {
+    color: #FFF;
+    font-family: "Futura Bk BT";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 164px;
+    margin-right: 19px;
+}
+
+.number {
+    color: #FFF;
+    font-family: "Futura Hv BT";
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.down {
+    width: 32px;
+    height: 32px;
+    flex-shrink: 0;
+}
+
+.bag {
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+    margin-left: 32px;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    width: 131px;
+    height: 36px;
+    background-color: #000;
+    flex-shrink: 0;
+    border-radius: 36px;
+    border: 1px solid #FFF;
+}
+
+.p-detal {
+    color: #FFF;
+    font-family: "Futura Bk BT";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 0px; /* 0% */
+    margin-left: 16px;
+}
+
