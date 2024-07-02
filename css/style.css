@@ -83,7 +83,7 @@ h1, h2, h3, p, ul{
 
 .section-hero {
     padding-top: 84px;
-    padding-bottom: 80px;
+    padding-bottom: 0px;
     height: 705px;
     background: #000;
     background-image: url(../img/back.png), url(../img/baaackgroundtext.png), url(../img/color.png);
@@ -204,3 +204,156 @@ h1, h2, h3, p, ul{
     margin-left: 16px;
 }
 
+.boots-market {
+    background: #000;
+    padding-bottom: 183px;
+}
+
+.previous {
+    color: #FFF;
+    font-family: "Futura Bk BT";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 100% */
+    text-transform: capitalize;
+}
+
+.next {
+    color: #FFF;
+    font-family: "Futura Bk BT";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 100% */
+    text-transform: capitalize;
+}
+
+.flexis {
+    display: flex;
+}
+
+.king {
+display: flex;
+align-items: center;
+gap: 44px;
+}
+
+.li-king {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.stroke {
+    width: 320px;
+    height: 185px;
+    flex-shrink: 0;
+    border: 2px solid #FFF;
+    margin-left: 80px;
+}
+
+.orangeboots {
+    margin-left: 15px;
+    margin-top: -40px;
+}
+
+.nikesnek {
+    color: #FFF;
+    font-family: "Futura LtCn BT";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 0px; /* 0% */
+    text-transform: uppercase;
+    margin-left: 32px;
+    margin-top: 40px;
+}
+
+.strokee {
+    width: 320px;
+    height: 185px;
+    flex-shrink: 0;
+    border: 2px solid #FFF;
+    margin-left: 40px;
+}
+
+.orangebootss {
+    margin-left: 15px;
+    margin-top: -9px;
+}
+
+.strokeee {
+    width: 320px;
+    height: 185px;
+    flex-shrink: 0;
+    border: 2px solid #FFF;
+    margin-left: 40px;
+}
+
+.orangebootsss {
+    margin-left: 15px;
+    margin-top: -25px;
+}
+
+
+.nikesnekk {
+    color: #FFF;
+    font-family: "Futura LtCn BT";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 0px; /* 0% */
+    text-transform: uppercase;
+    margin-left: 32px;
+    margin-top: 40px;
+}
+
+
+.nikesnekkk {
+    color: #FFF;
+    font-family: "Futura LtCn BT";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 0px; /* 0% */
+    text-transform: uppercase;
+    margin-left: 32px;
+    margin-top: 40px;
+}
+
+.flash {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    z-index: 2;
+    transform: rotate(2.950deg);
+    color: #FFF;
+    font-family: "Futura XBlkCnIt BT";
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 32px;
+    word-spacing: 119px;
+    background-color: #000;
+    height: 80px;
+}
+
+.flashh {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    z-index: 1;
+    transform: rotate(-2.088deg);
+    color: #FFF;
+    font-family: "Futura XBlkCnIt BT";
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 32px;
+    word-spacing: 119px;
+    background-color:#BA0000;
+    height: 80px;
+}
