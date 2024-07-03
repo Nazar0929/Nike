@@ -326,6 +326,7 @@ gap: 44px;
 
 .flash {
     display: flex;
+    justify-content: center;
     align-items: center;
     position: absolute;
     z-index: 2;
@@ -337,12 +338,13 @@ gap: 44px;
     font-weight: 400;
     line-height: normal;
     letter-spacing: 32px;
-    word-spacing: 119px;
+    word-spacing: 114px;
     background-color: #000;
     height: 80px;
 }
 
 .flashh {
+    justify-content: center;
     display: flex;
     align-items: center;
     position: absolute;
@@ -355,7 +357,7 @@ gap: 44px;
     font-weight: 400;
     line-height: normal;
     letter-spacing: 32px;
-    word-spacing: 119px;
+    word-spacing: 114px;
     background-color:#BA0000;
     height: 80px;
 }
