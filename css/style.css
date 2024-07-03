@@ -1,6 +1,4 @@
-:root {
 
-}
 
 .container {
     margin-left: auto;
@@ -82,8 +80,8 @@ h1, h2, h3, p, ul{
 }
 
 .section-hero {
-    padding-top: 84px;
-    padding-bottom: 0px;
+    padding-top: px;
+    padding-bottom: px;
     height: 705px;
     background: #000;
     background-image: url(../img/back.png), url(../img/baaackgroundtext.png), url(../img/color.png);
@@ -93,7 +91,7 @@ h1, h2, h3, p, ul{
 }
 
 .flex {
-    display: flex
+    display: flex;
 }
 
 .li-boot {
@@ -206,7 +204,7 @@ h1, h2, h3, p, ul{
 
 .boots-market {
     background: #000;
-    padding-bottom: 183px;
+    /* padding-bottom: 183px; */
 }
 
 .previous {
@@ -322,6 +320,10 @@ gap: 44px;
     margin-top: 40px;
 }
 
+.fla {
+    padding-bottom: px;
+}
+
 .flash {
     display: flex;
     align-items: center;
@@ -356,4 +358,168 @@ gap: 44px;
     word-spacing: 119px;
     background-color:#BA0000;
     height: 80px;
+}
+
+.footwear {
+    background: #000;
+    padding-top: 183px;
+    padding-bottom: 231px;
+    background-image: url(../img/crosors.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+
+.margin {
+    margin-bottom: 80px;
+}
+
+.head-textty {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.p-foot {
+    text-align: center;
+    width: 611px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: "Futura Md BT";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 100px; /* 156.25% */
+}
+
+
+.img-woman {
+    width: 72px;
+    height: 72px;
+    flex-shrink: 0;
+    margin-right: -40px;
+}
+
+
+.img-womann {
+    width: 72px;
+    height: 72px;
+    flex-shrink: 0;
+    margin-left: -50px;
+    margin-top: 19px;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+
+.company {
+    display: flex;
+    justify-content: center;
+    width: 1064px;
+    color: #FFF;
+    text-align: center;
+    font-family: "Futura Bk BT";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 48px; /* 300% */
+}
+
+.li-but {
+    display: flex;
+    justify-content: center;
+}
+
+.button-more {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: #000;
+    width: 175px;
+    height: 48px;
+    flex-shrink: 0;
+    border-radius: 36px;
+    border: 1px solid #FFF;
+}
+
+.outmore {
+    color: #FFF;
+    font-family: "Futura Bk BT";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 100% */
+}
+
+.sellers {
+    color: #FFF;
+    text-align: center;
+    font-family: "Futura Md BT";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 64px; /* 100% */
+    margin-bottom: 107px;
+} 
+
+.people-list {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+}
+
+.text-container {
+    position: relative;
+    display: inline-block;
+
+}
+
+.text-container::before{
+    content: '';
+    position: absolute;
+    width: 287.714px;
+    height: 55.105px;
+    transform: rotate(11.202deg);
+    flex-shrink: 0;
+    background: #BA0000;
+    mix-blend-mode: multiply;
+    z-index: -1;
+}
+
+.spannn {
+    position: relative;
+    z-index: 1;
+    color: #BA0000;
+}
+
+.ellers {
+    color: #BA0000;
+}
+
+.list-people {
+    position: relative;
+}
+
+.work-text-posicion {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  
+
+.work-texttt {
+    margin-left: auto;
+    color: rgba(255, 255, 255, 0);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #FFF;
+    font-family: "Futura Md BT";
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 64px; /* 100% */
 }
