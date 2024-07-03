@@ -338,7 +338,8 @@ gap: 44px;
     font-weight: 400;
     line-height: normal;
     letter-spacing: 32px;
-    word-spacing: 114px;
+    word-spacing: 119px;
+    width: 1506px;
     background-color: #000;
     height: 80px;
 }
@@ -349,6 +350,7 @@ gap: 44px;
     align-items: center;
     position: absolute;
     z-index: 1;
+    width: 1506px;
     transform: rotate(-2.088deg);
     color: #FFF;
     font-family: "Futura XBlkCnIt BT";
@@ -357,7 +359,7 @@ gap: 44px;
     font-weight: 400;
     line-height: normal;
     letter-spacing: 32px;
-    word-spacing: 114px;
+    word-spacing: 119px;
     background-color:#BA0000;
     height: 80px;
 }
