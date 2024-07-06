@@ -674,3 +674,101 @@ gap: 44px;
     font-weight: 400;
     line-height: 12px; /* 75% */
 }
+
+.favourite-sec {
+    padding-bottom: 246px;
+    background-image: url(../img/ccircle.png), url(../img/ccircle.png), url(../img/ccircle.png);
+    background-repeat: no-repeat;
+    background-position: 100px,550px,980px;
+}
+
+.fav-nike {
+    color: #FFF;
+    font-family: "Futura Md BT";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 64px; /* 100% */
+    text-transform: uppercase;
+}
+
+.nik-span {
+    color: #BA0000;
+    font-family: "Futura Lt BT";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 64px;
+    text-transform: uppercase;
+    /* background-image: url(../img/yyyy.png);
+    background-repeat: no-repeat;
+    background-position: 0px 50px; */
+}
+
+.down-line {
+    margin-left: 476px;
+}
+
+
+.back-redd {
+    margin-left: 208px;
+}
+
+.back-reddd {
+    margin-left: 80px;
+}
+
+.back-redds {
+    margin-left: 95px;
+}
+
+.text-nikee {
+    color: #FFF;
+    font-family: "Futura XBlkCnIt BT";
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 400;
+    margin-left: 123px;
+    margin-bottom: 14px;
+    line-height: normal;
+    width: 205px;
+}
+
+.text-nikeee {
+    text-align: right;
+    color: #FFF;
+    font-family: "Futura XBlkCnIt BT";
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 400;
+    margin-left: 123px;
+    margin-bottom: 14px;
+    line-height: normal;
+}
+
+.coast {
+    color: #BA0000;
+    font-family: "Futura XBlkCnIt BT";
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 900;
+    line-height: 16px; /* 80% */
+    margin-left: 273px;
+}
+
+.l {
+    display: flex;
+    margin-top: 110px;
+}
+
+.imggh {
+    margin-top: -41px;
+}
+
+.logotyps {
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 240px;
+}
