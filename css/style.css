@@ -773,3 +773,472 @@ gap: 44px;
     padding-bottom: 240px;
     
 }
+
+.padiing {
+    padding-top: 132px;
+    padding-bottom: 97px;
+    background-image: url(../img/boxxxx.png);
+    background-repeat: no-repeat;
+    background-position: 560px -145px;
+}
+
+.cont {
+    display: flex;
+}
+
+.besting-cros {
+    margin-top: 76px;
+    margin-bottom: 112px
+}
+
+.pp-p {
+    width: 618px;
+    color: #FFF;
+    font-family: "Futura Bk BT";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 32px;
+    margin-bottom: 40px;
+}
+
+.best-p {
+    width: 554px;
+    color: #FFF;
+    font-family: "Futura Md BT";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.but-nor {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 24px;
+    padding-right: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 36px;
+    border: 1px solid #FFF;
+    background-color: #000;
+}
+
+
+
+
+.p-p {
+    color: #FFF;
+    font-family: "Futura Bk BT";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px; /* 75% */
+}
+
+.flex-img {
+    display: flex;
+    margin-left: 61px;
+}
+
+
+.img-c {
+    margin-right: 40px;
+}
+
+.im-g {
+    margin-top: 28px;
+    margin-left: 60px;
+
+}
+
+.sec-cher {
+    padding-top: 180px;
+    padding-bottom: 180px;
+}
+
+.conta {
+    display: flex;
+    align-items: center;
+}
+
+.ul-lis {
+    margin-left: 243px;
+}
+
+.visionaries {
+    color: #FFF;
+    font-family: "Futura Md BT";
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.explor-p {
+    color: #FFF;
+    width: 522px;
+    font-family: "Futura Bk BT";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.explor-pp {
+    color: #FFF;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    width: 522px;
+    font-family: "Futura Bk BT";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.text-text {
+    width: 621px;
+    color: #FFF;
+    font-family: "Futura Bk BT";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.text-textt {
+    width: 621px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    color: #FFF;
+    font-family: "Futura Bk BT";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.but-norr {
+    margin-top: 32px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 24px;
+    padding-right: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 36px;
+    border: 1px solid #FFF;
+    background-color: #000;
+}
+
+.sp-red-p {
+    color: #BA0000;
+    font-family: "Futura Hv BT";
+}
+
+.but-last {
+    flex-shrink: 0;
+    border-radius: 36px;
+    border: 1px solid #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 24px;
+    padding-right: 24px;
+    background-color: #000;
+}
+
+.section-big-boots {
+    padding-top: 108px;
+    padding-bottom: 298px;
+    background-image: url(../img/ezgif.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.cordon {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 64px;
+    padding-bottom: 64px;
+    width: 1200px;
+    height: 300px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid #FFF;
+    backdrop-filter: blur(2px);
+}
+
+.big-litters {
+    color: #FFF;
+    font-family: "Futura Md BT";
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.flex-p {
+    display: flex;
+    align-items: center;
+}
+
+.img-nike-i {
+    margin-left: 224px;
+}
+
+.small-liters {
+    color: #FFF;
+    font-family: "Futura Bk BT";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.description {
+    color: #FFF;
+    font-family: "Futura Hv BT";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.price {
+    color: #FFF;
+    font-family: "Futura Bk BT";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.text-flexsx {
+    display: flex;
+    align-items: center;
+}
+
+.text-gaping {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    margin-left: 16px;
+}
+.last-main {
+    padding-top: 57px;
+    padding-bottom: 57px;
+}
+
+.con {
+    display: flex;
+    align-items: center;
+}
+
+.text-flexsxx {
+    margin-left: 182px;
+    margin-right: 131px;
+    display: flex;
+    align-items: center;
+}
+
+.text-flexsxd {
+    margin-left: 116px;
+    display: flex;
+    align-items: center;
+}
+
+.footer {
+    padding-top: 72px;
+    padding-bottom: 79px;
+}
+
+.lst {
+    color: #FFF;
+    font-family: "Futura LT";
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 64px; /* 133.333% */
+    text-transform: capitalize;
+    width: 400px;
+}
+
+.lat {
+    color: rgba(255, 255, 255, 0.50);
+    font-family: "Futura LT";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    text-transform: capitalize;
+}
+
+.last-button {
+    padding-top: 16px;
+    padding-bottom: 17px;
+    padding-left: 86px;
+    background-color: #000;
+    padding-right: 80px;
+    flex-shrink: 0;
+    border-radius: 80px;
+    border: 1px solid #FFF;
+}
+
+.sub-text {
+    color: #000;
+font-family: "Futura LT";
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+text-transform: capitalize;
+} 
+
+.sub-but {
+padding-top: 16px;
+padding-bottom: 16px;
+padding-left: 40px;
+padding-right: 40px;
+flex-shrink: 0;
+border-radius: 80px;
+background: #FFF;
+margin-left: -50px;
+}
+
+.twobut {
+    display: flex;
+    align-items: center;
+    margin-top: 32px;
+    margin-bottom: 88px;
+}
+
+.fot {
+    display: flex;
+    align-items: center;
+}
+
+.flex-list {
+    display: flex;
+}
+
+.first-list {
+    margin-left: 83px;
+}
+
+.tt {
+    color: #FFF;
+font-family: "Futura LtCn BT";
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-bottom: 16px;
+}
+
+.tta {
+    color: #FFF;
+font-family: "Futura LtCn BT";
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.ttg {
+    width: 210px;
+    color: #FFF;
+font-family: "Futura LtCn BT";
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-bottom: 16px;
+}
+
+
+.ttt {
+    color: #FFF;
+font-family: "Futura LtCn BT";
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-bottom: 51px;
+}
+
+.width {
+    width: 170px;
+}
+
+.pp {
+    color: #FFF;
+font-family: "Futura XBlkCnIt BT";
+font-size: 24px;
+font-style: italic;
+font-weight: 400;
+line-height: normal;
+margin-bottom: 24px;
+}
+
+.ppr {
+    color: #FFF;
+font-family: "Futura XBlkCnIt BT";
+font-size: 24px;
+font-style: italic;
+font-weight: 400;
+line-height: normal;
+margin-bottom: 24px;
+width: 200px;
+}
+
+.center-list {
+    margin-left: 105px;
+    margin-right: 71px;
+}
+
+.ls-wid {
+    width: 240px;
+}
+
+.last-sectionr {
+    padding-top: 31px;
+    padding-bottom: 32px;
+}
+
+.uppercase {
+    display: flex;
+    justify-content: space-between;
+}
+
+.lastlastp {
+    color: #FFF;
+font-family: "Futura Bk BT";
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: capitalize;
+}
+
+.lili-last {
+    display: flex;
+    gap: 40px;
+}
